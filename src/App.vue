@@ -7,6 +7,7 @@
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
     <h1>今天是一月二日</h1>
+     <h1>今天是一月二日99999999999999999999999999</h1>
     <chartPie :series-data="dataList" :extra-option="extraOption" />
   </div>
   <HelloWorld msg="Vite + Vue" />
